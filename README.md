@@ -1,7 +1,7 @@
 ## Kidney disease classffication using MLFlow and DVC
 
 ### Workflows
-1.Update config.yaml
+1.Update config.yaml <br>
 2.Update secrets.yaml [Optional]
 3.Update params.yaml
 4.Update the entity
