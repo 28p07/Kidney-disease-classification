@@ -1,0 +1,24 @@
+[2024-09-24 10:48:11,448: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-24 10:48:11,459: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-24 10:48:11,461: INFO: common: directory created at :{path}]
+[2024-09-24 10:48:11,464: INFO: common: directory created at :{path}]
+[2024-09-24 10:48:11,467: INFO: 2585763275: Downloading data from https://drive.google.com/file/d/1t59ofArJa_YZlt-AVBCQAXzN47_iQtfM/view?usp=drive_link\ into file artifacts/data_ingestion/data.zip]
+[2024-09-24 10:49:35,261: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-24 10:49:35,266: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-24 10:49:35,268: INFO: common: directory created at :{path}]
+[2024-09-24 10:49:35,270: INFO: common: directory created at :{path}]
+[2024-09-24 10:49:35,272: INFO: 3222874764: Downloading data from https://drive.google.com/file/d/1t59ofArJa_YZlt-AVBCQAXzN47_iQtfM/view?usp=drive_link\ into file artifacts/data_ingestion/data.zip]
+[2024-09-24 10:50:19,594: INFO: 3222874764: Downloaded data from https://drive.google.com/file/d/1t59ofArJa_YZlt-AVBCQAXzN47_iQtfM/view?usp=drive_link\ into file artifacts/data_ingestion/data.zip]
+[2024-09-24 11:07:45,508: ERROR: main: name 'STAGE_NAME' is not defined]
+Traceback (most recent call last):
+  File "D:\Projects\kidney-disease-classification\main.py", line 5, in <module>
+    logger.info(f" {STAGE_NAME} has started")
+NameError: name 'STAGE_NAME' is not defined
+[2024-09-24 11:08:38,302: INFO: main:  Data Ingestion Stage has started]
+[2024-09-24 11:08:38,304: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-24 11:08:38,305: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-24 11:08:38,306: INFO: common: directory created at :{path}]
+[2024-09-24 11:08:38,308: INFO: common: directory created at :{path}]
+[2024-09-24 11:08:38,308: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1t59ofArJa_YZlt-AVBCQAXzN47_iQtfM/view?usp=drive_link\ into file artifacts/data_ingestion/data.zip]
+[2024-09-24 11:09:26,479: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1t59ofArJa_YZlt-AVBCQAXzN47_iQtfM/view?usp=drive_link\ into file artifacts/data_ingestion/data.zip]
+[2024-09-24 11:09:31,561: INFO: main: Data Ingestion Stage has completed]
