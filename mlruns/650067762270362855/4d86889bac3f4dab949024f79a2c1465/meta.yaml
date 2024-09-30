@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/kidney-disease-classification/mlruns/650067762270362855/4d86889bac3f4dab949024f79a2c1465/artifacts
+end_time: 1727589758879
+entry_point_name: ''
+experiment_id: '650067762270362855'
+lifecycle_stage: active
+run_id: 4d86889bac3f4dab949024f79a2c1465
+run_name: funny-mink-794
+run_uuid: 4d86889bac3f4dab949024f79a2c1465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727589746555
+status: 3
+tags: []
+user_id: Acer

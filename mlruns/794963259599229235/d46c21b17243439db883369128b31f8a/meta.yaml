@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/kidney-disease-classification/mlruns/794963259599229235/d46c21b17243439db883369128b31f8a/artifacts
+end_time: 1727515155840
+entry_point_name: ''
+experiment_id: '794963259599229235'
+lifecycle_stage: active
+run_id: d46c21b17243439db883369128b31f8a
+run_name: handsome-skink-255
+run_uuid: d46c21b17243439db883369128b31f8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727515142659
+status: 4
+tags: []
+user_id: Acer

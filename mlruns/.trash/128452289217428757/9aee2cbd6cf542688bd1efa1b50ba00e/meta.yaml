@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/128452289217428757/9aee2cbd6cf542688bd1efa1b50ba00e/artifacts
+end_time: 1727416092870
+entry_point_name: ''
+experiment_id: '128452289217428757'
+lifecycle_stage: active
+run_id: 9aee2cbd6cf542688bd1efa1b50ba00e
+run_name: tasteful-turtle-226
+run_uuid: 9aee2cbd6cf542688bd1efa1b50ba00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727416077581
+status: 4
+tags: []
+user_id: Acer

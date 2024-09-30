@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/kidney-disease-classification/mlruns/650067762270362855/25d072e8643d4adab5b1e8f99390302e/artifacts
+end_time: 1727588767473
+entry_point_name: ''
+experiment_id: '650067762270362855'
+lifecycle_stage: active
+run_id: 25d072e8643d4adab5b1e8f99390302e
+run_name: agreeable-stork-678
+run_uuid: 25d072e8643d4adab5b1e8f99390302e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727588765384
+status: 4
+tags: []
+user_id: Acer

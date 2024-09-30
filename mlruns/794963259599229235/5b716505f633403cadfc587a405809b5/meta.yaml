@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/kidney-disease-classification/mlruns/794963259599229235/5b716505f633403cadfc587a405809b5/artifacts
+end_time: 1727507012023
+entry_point_name: ''
+experiment_id: '794963259599229235'
+lifecycle_stage: active
+run_id: 5b716505f633403cadfc587a405809b5
+run_name: bittersweet-calf-135
+run_uuid: 5b716505f633403cadfc587a405809b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727506998004
+status: 4
+tags: []
+user_id: Acer

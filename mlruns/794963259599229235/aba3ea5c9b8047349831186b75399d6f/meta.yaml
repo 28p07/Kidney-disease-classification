@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/kidney-disease-classification/mlruns/794963259599229235/aba3ea5c9b8047349831186b75399d6f/artifacts
+end_time: 1727506223946
+entry_point_name: ''
+experiment_id: '794963259599229235'
+lifecycle_stage: active
+run_id: aba3ea5c9b8047349831186b75399d6f
+run_name: redolent-pug-636
+run_uuid: aba3ea5c9b8047349831186b75399d6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727506209740
+status: 4
+tags: []
+user_id: Acer

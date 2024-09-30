@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/kidney-disease-classification/mlruns/794963259599229235/e1eaff39f402424fb3905c9945976906/artifacts
+end_time: 1727550000310
+entry_point_name: ''
+experiment_id: '794963259599229235'
+lifecycle_stage: active
+run_id: e1eaff39f402424fb3905c9945976906
+run_name: ambitious-swan-25
+run_uuid: e1eaff39f402424fb3905c9945976906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727549983302
+status: 4
+tags: []
+user_id: Acer

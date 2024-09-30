@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/128452289217428757/16f3e2f2f4474c81ba9dc6bd7fa4f106/artifacts
+end_time: 1727416325660
+entry_point_name: ''
+experiment_id: '128452289217428757'
+lifecycle_stage: active
+run_id: 16f3e2f2f4474c81ba9dc6bd7fa4f106
+run_name: smiling-skunk-175
+run_uuid: 16f3e2f2f4474c81ba9dc6bd7fa4f106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727416314105
+status: 4
+tags: []
+user_id: Acer

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/kidney-disease-classification/mlruns/794963259599229235/52ca94d9bf2e45bc91e366eed136254f/artifacts
+end_time: 1727586876313
+entry_point_name: ''
+experiment_id: '794963259599229235'
+lifecycle_stage: active
+run_id: 52ca94d9bf2e45bc91e366eed136254f
+run_name: indecisive-jay-494
+run_uuid: 52ca94d9bf2e45bc91e366eed136254f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727586859697
+status: 4
+tags: []
+user_id: Acer

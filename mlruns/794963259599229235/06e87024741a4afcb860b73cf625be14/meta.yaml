@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/kidney-disease-classification/mlruns/794963259599229235/06e87024741a4afcb860b73cf625be14/artifacts
+end_time: 1727514522060
+entry_point_name: ''
+experiment_id: '794963259599229235'
+lifecycle_stage: active
+run_id: 06e87024741a4afcb860b73cf625be14
+run_name: salty-skunk-650
+run_uuid: 06e87024741a4afcb860b73cf625be14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727514508312
+status: 4
+tags: []
+user_id: Acer

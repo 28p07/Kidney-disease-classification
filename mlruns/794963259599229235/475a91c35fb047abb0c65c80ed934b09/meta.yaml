@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/kidney-disease-classification/mlruns/794963259599229235/475a91c35fb047abb0c65c80ed934b09/artifacts
+end_time: 1727585267304
+entry_point_name: ''
+experiment_id: '794963259599229235'
+lifecycle_stage: active
+run_id: 475a91c35fb047abb0c65c80ed934b09
+run_name: whimsical-boar-517
+run_uuid: 475a91c35fb047abb0c65c80ed934b09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727585247090
+status: 4
+tags: []
+user_id: Acer
