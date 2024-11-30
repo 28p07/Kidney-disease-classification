@@ -1,1 +1,1 @@
-## Kidney disease classification using MLFlow and DVC
+## Kidney disease classification using MLOps
